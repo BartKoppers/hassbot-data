@@ -758,5 +758,5 @@
   {
     "CommandName": "latest",
     "CommandData": "'Latest' is not a version number. Please provide the actual version number."
-  },
+  }
 ]
